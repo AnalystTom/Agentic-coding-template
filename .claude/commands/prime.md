@@ -1,10 +1,13 @@
-# Context Prime
-## Run the following command
+# Prime
 
-eza . -tree --git-ignore
+Execute the `Run`, `Read` and `Report` sections to understand the codebase then summarize your understanding.
 
-## Read the following files: 
-> Read the files below and nothing else.
+## Run
+git ls-files
 
-READ.md
-pyproject.toml
+## Read
+print git ls -files 
+READE.md
+
+## Report
+Summarize your understanding of the codebase.
